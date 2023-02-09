@@ -1,0 +1,35 @@
+id: d578290addd8433db2d223857cd3c031
+annotation_type: index
+revision: '00001'
+annotations:
+  74ab1e3e23fb446584b144d8eae53cd5:
+    base: 1E07.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 178
+    - title: Preface
+      span:
+        start: 179
+        end: 225
+    - title: Verses 1-20
+      span:
+        start: 226
+        end: 2593
+    - title: Verses 21-40
+      span:
+        start: 2594
+        end: 4921
+    - title: Verses 41-60
+      span:
+        start: 4922
+        end: 7267
+    - title: Verses 61-77
+      span:
+        start: 7268
+        end: 9250
+    - title: Colophon
+      span:
+        start: 9251
+        end: 9341
